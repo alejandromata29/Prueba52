@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    
+    #borde {
+        border: 10px solid violet;
+    }
+
+    #games {
+        border: 10px solid yellowgreen;
+    }
+
+    #estilo {
+        border: 10px solid red;
+    }
+
+    #comida {
+        border: 10px solid blue;
+    }
+
+    #trabajo {
+        border: 10px solid gold;
+    }
